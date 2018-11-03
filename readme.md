@@ -97,6 +97,7 @@ project) resources.
 
 *   [awesome unified](https://github.com/unifiedjs/awesome)
 *   [awesome markdown](https://github.com/BubuAnabelas/awesome-markdown)
+*   [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx)
 *   [awesome rehype](https://github.com/rehypejs/awesome)
 *   [awesome retext](https://github.com/retextjs/awesome)
 
