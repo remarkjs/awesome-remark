@@ -93,6 +93,13 @@ project) resources.
 *   [cssnano](https://github.com/cssnano/cssnano)
     — modular minifier built on top of PostCSS
 
+## Related lists
+
+*   [awesome unified](https://github.com/unifiedjs/awesome)
+*   [awesome markdown](https://github.com/BubuAnabelas/awesome-markdown)
+*   [awesome rehype](https://github.com/rehypejs/awesome)
+*   [awesome retext](https://github.com/retextjs/awesome)
+
 <!-- Definitions. -->
 
 [awesome-badge]: https://awesome.re/badge.svg
