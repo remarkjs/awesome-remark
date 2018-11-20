@@ -18,11 +18,12 @@
   },
   "scripts": {
     "format": "remark . -qfo",
-    "test": "awesome-lint"
+    "test": "npm run format"
   },
   "remarkConfig": {
     "plugins": [
-      "preset-wooorm"
+      "preset-wooorm",
+      "awesome-lint/config"
     ]
   }
 }
