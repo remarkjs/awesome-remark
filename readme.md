@@ -92,6 +92,8 @@ project) resources.
     — functional WebGL
 *   [cssnano](https://github.com/cssnano/cssnano)
     — modular minifier built on top of PostCSS
+*   [AST explorer](https://astexplorer.net)
+    — visualization of abstract syntax trees
 
 ## Related lists
 
