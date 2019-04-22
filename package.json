@@ -12,16 +12,24 @@
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
   "devDependencies": {
+    "awesome-lint": "^0.9.1",
     "remark-cli": "^6.0.0",
     "remark-preset-wooorm": "^4.0.0"
   },
   "scripts": {
-    "format": "remark . -qfo",
+    "format": "remark contributing.md code-of-conduct.md -qfo && remark -u awesome-lint/config readme.md -qo",
     "test": "npm run format"
   },
   "remarkConfig": {
+    "settings": {
+      "listItemIndent": "1"
+    },
     "plugins": [
       "preset-wooorm",
+      [
+        "lint-list-item-indent",
+        "space"
+      ],
       [
         "toc",
         {
