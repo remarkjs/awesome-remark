@@ -7,6 +7,15 @@
 A curated list of awesome [remark][] (a markdown processor and a [unified][]
 project) resources.
 
+**remark** not another markdown to HTML compiler.
+It can generate and reformat markdown too.
+Powered by plugins to do all kinds of things: check markdown code style,
+transform safely to React, add a table of contents, or compile to man pages,
+and much more.
+
+**unified** is an interface for processing text using syntax trees.
+It’s what powers remark, but also [retext][] and [rehype][].
+
 ## Contents
 
 *   [Official](#official)
