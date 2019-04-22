@@ -7,6 +7,14 @@
 A curated list of awesome [remark][] (a markdown processor and a [unified][]
 project) resources.
 
+## Contents
+
+*   [Official](#official)
+*   [Plugins](#plugins)
+*   [Built on remark](#built-on-remark)
+*   [Built with remark](#built-with-remark)
+*   [Related lists](#related-lists)
+
 ## Official
 
 *   [remark][]
