@@ -1,6 +1,6 @@
 <!--lint disable no-html-->
 
-# awesome remark [![awesome][awesome-badge]][awesome]
+# awesome remark [![awesome][awesome-badge]][self]
 
 [<img src="https://raw.githubusercontent.com/remarkjs/remark/4f6b3d7/logo.svg?sanitize=true" align="right" alt width="200">](https://remark.js.org)
 
@@ -111,7 +111,7 @@ project) resources.
 
 [awesome-badge]: https://awesome.re/badge.svg
 
-[awesome]: https://awesome.re
+[self]: https://github.com/remarkjs/awesome-remark
 
 [unified]: https://github.com/unifiedjs/unified
 
