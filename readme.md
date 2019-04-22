@@ -4,8 +4,8 @@
 
 [<img src="https://raw.githubusercontent.com/remarkjs/remark/4f6b3d7/logo.svg?sanitize=true" align="right" alt width="200">](https://remark.js.org)
 
-A curated list of awesome [remark][] (a markdown processor and a [unified][]
-project) resources.
+> A curated list of awesome [remark][] (a markdown processor and a [unified][]
+> project) resources.
 
 **remark** not another markdown to HTML compiler.
 It can generate and reformat markdown too.
