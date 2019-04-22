@@ -14,6 +14,7 @@ project) resources.
 *   [Built on remark](#built-on-remark)
 *   [Built with remark](#built-with-remark)
 *   [Related lists](#related-lists)
+*   [License](#license)
 
 ## Official
 
@@ -115,7 +116,17 @@ project) resources.
 *   [awesome rehype](https://github.com/rehypejs/awesome)
 *   [awesome retext](https://github.com/retextjs/awesome)
 
+## License
+
+[![CC-BY][license-badge]][license] © [Titus Wormer][author]
+
 <!-- Definitions. -->
+
+[license]: https://creativecommons.org/licenses/by/4.0/
+
+[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
+
+[author]: https://wooorm.com
 
 [awesome-badge]: https://awesome.re/badge.svg
 
