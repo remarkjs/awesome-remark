@@ -19,94 +19,94 @@ project) resources.
 ## Official
 
 *   [remark][]
-    — repository
+    — Repository
 *   [remark.js.org][homepage]
-    — website
+    — Website
 *   [remark-parse][]
-    — markdown parser
+    — Markdown parser
 *   [remark-stringify][]
-    — markdown generator
+    — Markdown generator
 *   [remark-cli][]
-    — command line interface
+    — Command line interface
 *   [mdast][]
-    — abstract syntax tree specification
+    — Abstract syntax tree specification
 *   [unified][]
-    — ecosystem
+    — Ecosystem
 *   [unified.js.org][ecosystem-homepage]
-    — ecosystem website
+    — Ecosystem website
 
 ## Plugins
 
 *   [remark-rehype](https://github.com/remarkjs/remark-rehype)
-    — integrate with the [rehype][] ecosystem
+    — Integrate with the [rehype][] ecosystem
 *   [remark-retext](https://github.com/remarkjs/remark-retext)
-    — integrate with the [retext][] ecosystem
+    — Integrate with the [retext][] ecosystem
 *   [remark-lint](https://github.com/remarkjs/remark-lint)
-    — markdown code-style linter
+    — Markdown code-style linter
 *   [remark-man](https://github.com/remarkjs/remark-man)
-    — generate man pages
+    — Generate man pages
 *   [remark-toc](https://github.com/remarkjs/remark-toc)
-    — add a tables of contents
+    — Add a tables of contents
 *   [remark-github](https://github.com/remarkjs/remark-github)
-    — support GitHub references like issues, PRs, and comments
+    — Support GitHub references like issues, PRs, and comments
 *   [remark-math](https://github.com/Rokt33r/remark-math)
-    — support math
+    — Support math
 *   [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter)
-    — support YAML/TOML/more frontmatter
+    — Support YAML/TOML/more frontmatter
 *   [remark-license](https://github.com/remarkjs/remark-license)
-    — add a license section
+    — Add a license section
 *   [remark-git-contributors](https://github.com/vweevers/remark-git-contributors)
-    — add a table with git contributors
+    — Add a table with git contributors
 
 [Find more plugins »](https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins)
 
 ## Built on remark
 
 *   [mdx](https://github.com/mdx-js/mdx)
-    — markdown combined with JSX
+    — Markdown combined with JSX
 *   [react-markdown](https://github.com/rexxars/react-markdown)
-    — render markdown as React components
+    — Render markdown as React components
 *   [prettier](https://github.com/prettier/prettier)
-    — opinionated code formatter
+    — Opinionated code formatter
 *   [gatsby](https://github.com/gatsbyjs/gatsby)
-    — blazing fast, modern apps and websites with React
+    — Blazing fast, modern apps and websites with React
 *   [netlify-cms](https://github.com/netlify/netlify-cms)
     — CMS for static site generators
 *   [docz](https://github.com/pedronauck/docz)
-    — document your design system
+    — Document your design system
 *   [postcss-markdown](https://github.com/gucong3000/postcss-markdown)
-    — process CSS in markdown
+    — Process CSS in markdown
 *   [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown)
-    — lint JavaScript in markdown
+    — Lint JavaScript in markdown
 *   [documentation.js](https://github.com/documentationjs/documentation)
-    — documentation system for modern JavaScript
+    — Documentation system for modern JavaScript
 *   [x0](https://github.com/c8r/x0)
-    — document & develop React components without breaking a sweat
+    — Document & develop React components without breaking a sweat
 
 ## Built with remark
 
 *   [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-    — learn to code for free
+    — Learn to code for free
 *   [Node.js](https://github.com/nodejs/node)
     — Node.js JavaScript runtime
 *   [storybook](https://github.com/storybooks/storybook)
-    — interactive UI component dev & test
+    — Interactive UI component dev & test
 *   [rxjs](https://github.com/ReactiveX/rxjs)
     — Reactive Extensions For JavaScript
 *   [WebFundamentals](https://github.com/google/WebFundamentals) by [Google](https://opensource.google.com)
-    — best practices for modern web development
+    — Best practices for modern web development
 *   [stylelint](https://github.com/stylelint/stylelint)
-    — mighty, modern style linter
+    — Mighty, modern style linter
 *   [opensource.guide](https://github.com/github/opensource.guide)
-    — community guides for open source creators
+    — Community guides for open source creators
 *   [debugger.html](https://github.com/devtools-html/debugger.html) by [Mozilla](https://www.mozilla.org)
     — Firefox debugger
 *   [regl](https://github.com/regl-project/regl)
-    — functional WebGL
+    — Functional WebGL
 *   [cssnano](https://github.com/cssnano/cssnano)
-    — modular minifier built on top of PostCSS
+    — Modular minifier built on top of PostCSS
 *   [AST explorer](https://astexplorer.net)
-    — visualization of abstract syntax trees
+    — Visualization of abstract syntax trees
 
 ## Related lists
 
