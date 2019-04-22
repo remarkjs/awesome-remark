@@ -1,4 +1,8 @@
+<!--lint disable no-html-->
+
 # awesome remark [![awesome][awesome-badge]][awesome]
+
+[<img src="https://raw.githubusercontent.com/remarkjs/remark/4f6b3d7/logo.svg?sanitize=true" align="right" alt width="200">](https://remark.js.org)
 
 A curated list of awesome [remark][] (a markdown processor and a [unified][]
 project) resources.
