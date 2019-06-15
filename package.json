@@ -1,23 +1,23 @@
 {
-  "name": "awesome",
+  "name": "awesome-remark",
   "private": true,
   "version": "0.0.0",
   "description": "Curated list of awesome remark resources",
   "license": "CC-BY-4.0",
   "keywords": [],
-  "repository": "remarkjs/awesome",
-  "bugs": "https://github.com/remarkjs/awesome/issues",
+  "repository": "remarkjs/awesome-remark",
+  "bugs": "https://github.com/remarkjs/awesome-remark/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
   "devDependencies": {
-    "awesome-lint": "^0.9.1",
+    "awesome-lint": "^0.10.0",
     "remark-cli": "^6.0.0",
-    "remark-preset-wooorm": "^4.0.0"
+    "remark-preset-wooorm": "^5.0.0"
   },
   "scripts": {
-    "format": "remark contributing.md code-of-conduct.md -qfo && remark -u awesome-lint/config readme.md -qo",
+    "format": "remark . -qo",
     "test": "npm run format"
   },
   "remarkConfig": {
@@ -35,6 +35,11 @@
         {
           "heading": "contents"
         }
+      ],
+      "awesome-lint/config",
+      [
+        "awesome-lint/rules/contributing.js",
+        false
       ]
     ]
   }

@@ -4,17 +4,18 @@
 
 [<img src="https://raw.githubusercontent.com/remarkjs/remark/4f6b3d7/logo.svg?sanitize=true" align="right" alt width="200">](https://remark.js.org)
 
-> A curated list of awesome [remark][] (a markdown processor and a [unified][]
+> A curated list of awesome [remark][] (a Markdown processor and a [unified][]
 > project) resources.
 
-**remark** is not another markdown to HTML compiler.
-It can generate and reformat markdown too.
-Powered by plugins to do all kinds of things: check markdown code style,
+**remark** is not another Markdown to HTML compiler.
+It can generate and reformat Markdown too.
+Powered by plugins to do all kinds of things: check Markdown code style,
 transform safely to React, add a table of contents, or compile to man pages,
 and much more.
 
 **unified** is an interface for processing text using syntax trees.
 It’s what powers remark, but also [retext][] and [rehype][].
+It’s part of the [unified][] collective.
 
 ## Contents
 
