@@ -33,7 +33,8 @@
       [
         "toc",
         {
-          "heading": "contents"
+          "heading": "contents",
+          "skip": "license"
         }
       ],
       "awesome-lint/config",
