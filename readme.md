@@ -34,7 +34,7 @@ It’s part of the [unified][] collective.
 * [remark-cli](https://github.com/remarkjs/remark/tree/master/packages/remark-cli) - Command line interface.
 * [mdast](https://github.com/syntax-tree/mdast) - Abstract syntax tree specification.
 * [unified](https://github.com/unifiedjs/unified) - Ecosystem.
-* [unified.js.org](https://unified.js.org) - Ecosystem website.
+* [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
 
 ## Plugins
 
