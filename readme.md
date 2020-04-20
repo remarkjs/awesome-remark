@@ -49,6 +49,7 @@ It’s part of the [unified][] collective.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
 * [remark-git-contributors](https://github.com/vweevers/remark-git-contributors) - Add a table with git contributors.
+* [remarkjs-typograf](https://github.com/Mavrin/remarkjs-typograf) - Integrate with the [Typograf](https://github.com/typograf) ecosystem.
 
 [Find more plugins »](https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins)
 
