@@ -24,6 +24,7 @@ It’s part of the [unified][] collective.
 * [Built on remark](#built-on-remark)
 * [Built with remark](#built-with-remark)
 * [Related lists](#related-lists)
+* [License](#license)
 
 ## Official
 

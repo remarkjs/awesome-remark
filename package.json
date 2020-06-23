@@ -13,7 +13,7 @@
   ],
   "devDependencies": {
     "remark-cli": "^8.0.0",
-    "remark-preset-wooorm": "^6.0.0"
+    "remark-preset-wooorm": "^7.0.0"
   },
   "scripts": {
     "format": "remark . -qo",
@@ -28,13 +28,6 @@
       [
         "lint-list-item-indent",
         "space"
-      ],
-      [
-        "toc",
-        {
-          "heading": "contents",
-          "skip": "license"
-        }
       ]
     ]
   }
