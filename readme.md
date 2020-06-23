@@ -30,9 +30,9 @@ It’s part of the [unified][] collective.
 
 * [remark](https://github.com/remarkjs/remark) - Repository.
 * [remark.js.org](https://remark.js.org) - Website.
-* [remark-parse](https://github.com/remarkjs/remark/tree/master/packages/remark-parse) - Markdown parser.
-* [remark-stringify](https://github.com/remarkjs/remark/tree/master/packages/remark-stringify) - Markdown generator.
-* [remark-cli](https://github.com/remarkjs/remark/tree/master/packages/remark-cli) - Command line interface.
+* [remark-parse](https://github.com/remarkjs/remark/tree/HEAD/packages/remark-parse) - Markdown parser.
+* [remark-stringify](https://github.com/remarkjs/remark/tree/HEAD/packages/remark-stringify) - Markdown generator.
+* [remark-cli](https://github.com/remarkjs/remark/tree/HEAD/packages/remark-cli) - Command line interface.
 * [mdast](https://github.com/syntax-tree/mdast) - Abstract syntax tree specification.
 * [unified](https://github.com/unifiedjs/unified) - Ecosystem.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
@@ -51,7 +51,7 @@ It’s part of the [unified][] collective.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
 * [remark-git-contributors](https://github.com/vweevers/remark-git-contributors) - Add a table with git contributors.
 
-[Find more plugins »](https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins)
+[Find more plugins »](https://github.com/remarkjs/remark/blob/HEAD/doc/plugins.md#list-of-plugins)
 
 ## Built on remark
 
