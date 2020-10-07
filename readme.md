@@ -45,7 +45,7 @@ It’s part of the [unified][] collective.
 * [remark-man](https://github.com/remarkjs/remark-man) - Generate man pages.
 * [remark-toc](https://github.com/remarkjs/remark-toc) - Add a tables of contents.
 * [remark-github](https://github.com/remarkjs/remark-github) - Support GitHub references like issues, PRs, and comments.
-* [remark-math](https://github.com/Rokt33r/remark-math) - Support math.
+* [remark-math](https://github.com/remarkjs/remark-math) - Support math.
 * [remark-footnotes](https://github.com/remarkjs/remark-footnotes) - Support footnotes.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
