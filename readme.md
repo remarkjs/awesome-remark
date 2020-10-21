@@ -65,6 +65,7 @@ It’s part of the [unified][] collective.
 * [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - Lint JavaScript in markdown.
 * [documentation.js](https://github.com/documentationjs/documentation) - Documentation system for modern JavaScript.
 * [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
+* [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
 
 ## Built with remark
 
