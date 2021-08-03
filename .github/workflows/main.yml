@@ -1,0 +1,14 @@
+name: main
+on:
+  - pull_request
+  - push
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: dcodeIO/setup-node-nvm@master
+        with:
+          node-version: node
+      - run: npm install
+      - run: npm test
