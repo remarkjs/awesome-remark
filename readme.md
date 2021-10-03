@@ -44,9 +44,9 @@ It’s part of the [unified][] collective.
 * [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code-style linter.
 * [remark-man](https://github.com/remarkjs/remark-man) - Generate man pages.
 * [remark-toc](https://github.com/remarkjs/remark-toc) - Add a tables of contents.
+* [remark-gfm](https://github.com/remarkjs/remark-gfm) - Support GitHub Flavored Markdown (GFM).
 * [remark-github](https://github.com/remarkjs/remark-github) - Support GitHub references like issues, PRs, and comments.
 * [remark-math](https://github.com/remarkjs/remark-math) - Support math.
-* [remark-footnotes](https://github.com/remarkjs/remark-footnotes) - Support footnotes.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
 * [remark-git-contributors](https://github.com/vweevers/remark-git-contributors) - Add a table with git contributors.
