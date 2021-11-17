@@ -50,22 +50,21 @@ It’s part of the [unified][] collective.
 * [remark-math](https://github.com/remarkjs/remark-math) - Support math.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
-* [remark-git-contributors](https://github.com/vweevers/remark-git-contributors) - Add a table with git contributors.
+* [remark-git-contributors](https://github.com/remarkjs/remark-git-contributors) - Add a table with git contributors.
 
 [Find more plugins »](https://github.com/remarkjs/remark/blob/main/doc/plugins.md#list-of-plugins)
 
 ## Built on remark
 
 * [mdx](https://github.com/mdx-js/mdx) - Markdown combined with JSX.
-* [react-markdown](https://github.com/rexxars/react-markdown) - Render markdown as React components.
+* [react-markdown](https://github.com/remarkjs/react-markdown) - Render markdown as React components.
 * [prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
 * [gatsby](https://github.com/gatsbyjs/gatsby) - Blazing fast, modern apps and websites with React.
 * [netlify-cms](https://github.com/netlify/netlify-cms) - CMS for static site generators.
-* [docz](https://github.com/pedronauck/docz) - Document your design system.
+* [docz](https://github.com/doczjs/docz) - Document your design system.
 * [postcss-markdown](https://github.com/gucong3000/postcss-markdown) - Process CSS in markdown.
 * [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - Lint JavaScript in markdown.
 * [documentation.js](https://github.com/documentationjs/documentation) - Documentation system for modern JavaScript.
-* [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
 
 ## Built with remark
