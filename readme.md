@@ -45,6 +45,7 @@ It’s part of the [unified][] collective.
 * [remark-man](https://github.com/remarkjs/remark-man) - Generate man pages.
 * [remark-toc](https://github.com/remarkjs/remark-toc) - Add a tables of contents.
 * [remark-gfm](https://github.com/remarkjs/remark-gfm) - Support GitHub Flavored Markdown (GFM).
+* [remark-mdx](https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx) - Support MDX.
 * [remark-github](https://github.com/remarkjs/remark-github) - Support GitHub references like issues, PRs, and comments.
 * [remark-math](https://github.com/remarkjs/remark-math) - Support math.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
