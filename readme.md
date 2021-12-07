@@ -66,6 +66,7 @@ It’s part of the [unified][] collective.
 * [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - Lint JavaScript in markdown.
 * [documentation.js](https://github.com/documentationjs/documentation) - Documentation system for modern JavaScript.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
+* [vue-markdown-preview](https://github.com/uivjs/vue-markdown-preview) - Render markdown as Vue3 components.
 
 ## Built with remark
 
