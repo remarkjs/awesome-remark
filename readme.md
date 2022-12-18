@@ -66,7 +66,7 @@ It’s part of the [unified][] collective.
 * [eslint-plugin-markdown](https://github.com/eslint/eslint-plugin-markdown) - Lint JavaScript in markdown.
 * [documentation.js](https://github.com/documentationjs/documentation) - Documentation system for modern JavaScript.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
-* [Astro](https://astro.build) - Build faster websites with Astro's next-gen island architecture 🏝✨
+* [Astro](https://astro.build) - Build faster websites with Astro’s next-gen island architecture.
 
 ## Built with remark
 
