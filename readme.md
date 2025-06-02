@@ -73,6 +73,7 @@ It’s all part of the [unified][] collective.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
 * [Astro](https://astro.build) - Build faster websites with Astro’s next-gen island architecture.
 * [mdsvex](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte.
+* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with Angular components and templates.
 
 ## Built with remark
 
