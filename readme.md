@@ -53,6 +53,7 @@ It’s all part of the [unified][] collective.
 * [remark-mdx](https://github.com/mdx-js/mdx/tree/main/packages/remark-mdx) - Support MDX.
 * [remark-github](https://github.com/remarkjs/remark-github) - Support GitHub references like issues, PRs, and comments.
 * [remark-math](https://github.com/remarkjs/remark-math) - Support math.
+* [@webc.site/math-remark](https://github.com/webc-site/math/tree/dev/plugin/remark) - Render math to native browser MathML.
 * [remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - Support YAML/TOML/more frontmatter.
 * [remark-license](https://github.com/remarkjs/remark-license) - Add a license section.
 * [remark-git-contributors](https://github.com/remarkjs/remark-git-contributors) - Add a table with git contributors.
