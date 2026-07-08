@@ -73,7 +73,7 @@ It’s all part of the [unified][] collective.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
 * [Astro](https://astro.build) - Build faster websites with Astro’s next-gen island architecture.
 * [mdsvex](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte.
-* [MDMA](https://mdma.software) - Markdown with mounted interactive components (forms, tables, approval gates) for LLM-generated UI (by [Mobile Reality](https://themobilereality.com)).
+* [MDMA](https://mdma.software) - Markdown with mounted interactive components for LLM-generated UI.
 
 ## Built with remark
 
